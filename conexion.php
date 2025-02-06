@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';  // Dirección del servidor
+$host = 'localhost';  // Dirección del servidor (prueba de git)
 $dbname = 'blog'; // Nombre de la base de datos
 $username = 'root';    // Usuario de MySQL
 $password = '';        // Contraseña de MySQL
